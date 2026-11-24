@@ -1,0 +1,9 @@
+Modificar modificar visual: Hay que seleccionar lo que quiero modificar en consulta
+AutoIncremental de sql: Para que nuevamente me aparezca desde 1 hay que borrar toda la tabla
+Hacer bien el caso de uso 5: Mostrar el barrio pero no todos sus datos, solo su numero de comuna, nombre comunal, barrio y tipo
+Id barrio: Tengo que borrarlo del eclipse
+Hacer bien los metodos de barrio: densidad y indice de criticidad
+Consultar traslados: dificil, pero basicamente consulta todos los barrios que tuvo y en el que esta
+Cambiar el id barrio de persona a combo box
+Hacer la consulta de persona por aproximacion de nombre
+Modificar las visibilidades de agregarbarriovisual para que queden en los metodos y no que quede todo en el combo box
